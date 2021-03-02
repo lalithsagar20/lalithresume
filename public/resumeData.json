@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Lalithsagar",
+    "occupation": "Web/UI Developer",
+    "description": "I eat, sleep and breathe,Work,Cricket",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Lalith! I've been working for over 3 years now as a Web or UI developer, I've worked both with small and large corporations to help build & scale.And i have knowledge and fair bit of working exposure on developing backend with php codeigniter as well as working experience in google anaytics.",
+    "contactmessage": "Get In Touch",
+    "email": "lalithsagar20@gmail.com",
+    "phone": "+91 8019719784",
+    "address": {
+      "street": "6-61, Old police station street",
+      "city": "Guntur",
+      "state": "Andhra Pradesh",
+      "zip": "522509"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCP6zJ5Q6DXP1W2mOlFoJZLA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Aluri.lalithsagar",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lalith-sagar-aluri-8b3423103/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lalithsagaraluri/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "git",
+        "url": "https://gitlab.com/lalithsagar20",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Geetanjali Vidyalayam - Guntur,AP",
+        "degree": "Bachelor's Degree, Electronics & Communications Engineering",
+        "graduated": "May 2015",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Access Healthcare Services Private Ltd",
+        "title": "Developer",
+        "years": "June 2019 - Present",
+        "description": "Developing and maintaining Privia Health Website and analysis."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "PHP",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      },
+      {
+        "name": "Google Analytics",
+        "level": "60%"
+      }
+    ],
+      "Certifications": [
+        {
+          "name": "Google Analytics Beginner and Advanced by Google Academy"
+        },
+        {
+          "name": "Wordpress by Templatemonster"
+        },
+        {
+          "name": "PowerBI Essentials and Advanced by LinkedInLearning"
+        }
+      ],
+      "Achievements":[
+        {
+          "text": "Best employee for the month of May-2020"
+        }
+      ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Privia Health",
+        "category": "",
+        "image": "priviahealth.png",
+        "url": "https://www.priviahealth.com/"
+      },
+      {
+        "title": "Privia Medical Group",
+        "category": "",
+        "image": "myprivia.png",
+        "url": "https://www.myprivia.com"
+      },
+      {
+        "title": "Aco Calculator",
+        "category": "",
+        "image": "aco.png",
+        "url": "https://info.priviahealth.com/pathways-to-success/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
